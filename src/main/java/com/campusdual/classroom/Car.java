@@ -110,5 +110,4 @@ public class Car {
     public void showDetails(){
         System.out.println("Velocidad: "+speedometer+"Km/h RPM: "+tachometer+" Ángulo de las ruedas: "+wheelsAngle);
     }
-
 }
